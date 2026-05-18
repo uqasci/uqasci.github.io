@@ -1,0 +1,267 @@
+// ── CSS Variables ────────────────────────────────────────────
+:root {
+  --global-theme-color: #502378;
+  --global-hover-color: #502378;
+  --global-footer-bg-color: #502378;
+  --global-footer-text-color: #ffffff;
+  --global-footer-link-color: #D7D2E6;
+}
+
+// ── Typography ───────────────────────────────────────────────
+body, p, a, li, td, th {
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.navbar, .footer {
+  font-family: 'Inter', sans-serif;
+}
+
+// ── Global links ─────────────────────────────────────────────
+a {
+  color: #502378;
+  &:hover { color: #3a1a5a; }
+}
+
+// ── Navbar ───────────────────────────────────────────────────
+nav.navbar {
+  background-color: #502378 !important;
+
+  a.nav-link, .navbar-brand {
+    color: #ffffff !important;
+    &:hover { color: #D7D2E6 !important; }
+  }
+
+  .navbar-brand { font-weight: 600; }
+}
+
+// ── Page titles ──────────────────────────────────────────────
+h1.post-title,
+.header-bar h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #502378;
+  margin-bottom: 0.3rem;
+}
+
+// ── Section headings ─────────────────────────────────────────
+h1, h2 { color: #502378; }
+
+.post article h2 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  border-bottom: 2px solid #D7D2E6;
+  padding-bottom: 0.4rem;
+  margin-top: 3rem;
+  margin-bottom: 1.2rem;
+}
+
+// ── Subtitles ────────────────────────────────────────────────
+.post-description,
+.header-bar h2 {
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #666;
+  margin-top: 0;
+}
+
+// ── People section ───────────────────────────────────────────
+.people-section {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin: 1.5rem 0;
+}
+
+.person-card {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  padding: 1.25rem;
+  background: #f9f8fc;
+  border-left: 4px solid #502378;
+  border-radius: 6px;
+}
+
+.person-photo {
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 50%;
+  flex-shrink: 0;
+  border: 3px solid #D7D2E6;
+  background: #D7D2E6;
+}
+
+.person-info h4 {
+  margin: 0 0 0.2rem 0;
+  color: #502378;
+  font-size: 1.1rem;
+}
+
+.person-role {
+  font-style: italic;
+  color: #666;
+  margin: 0 0 0.5rem 0;
+  font-size: 0.9rem;
+}
+
+.person-bio {
+  font-size: 0.92rem;
+  margin-bottom: 0.6rem;
+  line-height: 1.5;
+}
+
+.person-links {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  font-size: 0.85rem;
+
+  a {
+    color: #502378;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    &:hover { color: #3a1a5a; text-decoration: underline; }
+  }
+}
+
+// ── Research theme tags ──────────────────────────────────────
+.themes-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin: 1.5rem 0;
+}
+
+.theme-tag {
+  background: #D7D2E6;
+  color: #502378;
+  padding: 0.4rem 0.9rem;
+  border-radius: 20px;
+  font-size: 0.88rem;
+  font-weight: 500;
+  border: 1px solid #502378;
+}
+
+// ── Dark mode ────────────────────────────────────────────────
+html[data-theme='dark'] {
+  h1, h2,
+  h1.post-title,
+  .header-bar h1,
+  .post article h2 { color: #D7D2E6; }
+
+  .post article h2 { border-bottom-color: #502378; }
+
+  .post-description,
+  .header-bar h2,
+  .person-role { color: #aaaaaa; }
+
+  p a, article a {
+    color: #D7D2E6 !important;
+    &:hover { color: #ffffff !important; }
+  }
+
+  .person-card {
+    background: #2a2a2a;
+    border-left-color: #D7D2E6;
+    h4 { color: #D7D2E6; }
+    .person-bio { color: #cccccc; }
+    .person-links a { color: #D7D2E6; }
+  }
+
+  .theme-tag {
+    background: #3a2a4a;
+    color: #D7D2E6;
+    border-color: #D7D2E6;
+  }
+}
+
+// ── Theories & Measures ──────────────────────────────────────
+.theory-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.theory-card {
+  padding: 1.25rem 1.5rem;
+  background: #f9f8fc;
+  border-left: 4px solid #502378;
+  border-radius: 6px;
+
+  h4 {
+    margin: 0 0 0.2rem 0;
+    color: #502378;
+    font-size: 1rem;
+  }
+}
+
+.theory-meta {
+  font-size: 0.82rem;
+  color: #888;
+  font-style: italic;
+  margin: 0 0 0.6rem 0;
+}
+
+.theory-links {
+  margin-top: 0.6rem;
+  font-size: 0.85rem;
+
+  a {
+    color: #502378;
+    text-decoration: none;
+    &:hover { text-decoration: underline; }
+  }
+}
+
+// Dark mode
+html[data-theme='dark'] {
+  .theory-card {
+    background: #2a2a2a;
+    border-left-color: #D7D2E6;
+    h4 { color: #D7D2E6; }
+  }
+
+  .theory-meta { color: #aaaaaa; }
+}
+
+// ── Theory search ────────────────────────────────────────────
+.theory-search-wrap {
+  margin: 1.5rem 0;
+}
+
+.theory-search-input {
+  width: 100%;
+  max-width: 500px;
+  padding: 0.6rem 1rem;
+  border: 2px solid #D7D2E6;
+  border-radius: 25px;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.9rem;
+  outline: none;
+  color: #333;
+  background: #fff;
+  transition: border-color 0.2s;
+
+  &:focus {
+    border-color: #502378;
+  }
+}
+
+html[data-theme='dark'] {
+  .theory-search-input {
+    background: #2a2a2a;
+    color: #ffffff;
+    border-color: #502378;
+    &:focus { border-color: #D7D2E6; }
+  }
+}
