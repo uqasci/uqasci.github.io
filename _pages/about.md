@@ -71,7 +71,7 @@ We are part of the [School of Electrical Engineering and Computer Science](https
     <img src="/assets/img/team/ronal.jpg" alt="Ronal Singh" class="person-photo"/>
     <div class="person-info">
       <h4>Ronal Singh</h4>
-      <p class="person-role">?</p>
+      <p class="person-role">Senior Research Fellow</p>
       <p class="person-bio">Ronal is a researcher in human-centred AI-assisted decision-making, with a focus on how AI systems can support rather than replace human judgment in high-stakes settings. His work examines how evidence, uncertainty, and explainability should be structured to help people make better decisions while retaining control. He is particularly interested in human-AI teaming — including when systems should defer to human expertise and how assistance should be calibrated to avoid over- or under-reliance. Methodologically, he combines empirical human-subject studies with the design and evaluation of interactive AI systems.</p>
       <div class="person-links">
         <a href="mailto:ronal.singh@uq.edu.au">✉ ronal.singh@uq.edu.au</a>
@@ -82,13 +82,13 @@ We are part of the [School of Electrical Engineering and Computer Science](https
 
 
   <div class="person-card">
-    <img src="/assets/img/team/chengbo.jpg" alt="Chengbo Zheng" class="person-photo"/>
+    <img src="/assets/img/team/chengbo.png" alt="Chengbo Zheng" class="person-photo"/>
     <div class="person-info">
       <h4>Chengbo Zheng</h4>
       <p class="person-role">Postdoctoral Researcher</p>
-      <p class="person-bio">Blurb</p>
+      <p class="person-bio">Chengbo is an HCI researcher focusing on human–AI collaboration for sensemaking and decision-making. He completed his PhD at the Hong Kong University of Science and Technology (HKUST). His research is highly interdisciplinary, spanning the intersections of HCI with data science, education, and AI for science. More broadly, he is interested in designing AI systems that enhance human metacognition and support more reflective and effective collaboration with AI. His current work centers on augmenting clinical workflows—particularly in dermatology—through human-centered AI systems. He loves cats and dogs.</p>
       <div class="person-links">
-        <a href="mailto:m.tanprasert@uq.edu.au">✉ m.tanprasert@uq.edu.au</a>
+        <a href="mailto:chengbo.zheng@uq.edu.au">✉ chengbo.zheng@uq.edu.au</a>
         <a href="https://scholar.google.com/citations?hl=en&user=YYZlrmcAAAAJ" target="_blank"><i class="ai ai-google-scholar"></i> Scholar</a>
       </div>
     </div>
@@ -151,9 +151,9 @@ We are part of the [School of Electrical Engineering and Computer Science](https
     <div class="person-info">
       <h4>Bing Tuo</h4>
       <p class="person-role">PhD Candidate</p>
-      <p class="person-bio">Blurb.</p>
+      <p class="person-bio">Great passion for human-centered AI — exploring how to build AI system that not only helps people make better decisions, but are also system people can trust and rely on. As a father of two boys, I am also deeply interested in how children can learn to use AI responsibly, critically, and creatively.</p>
       <div class="person-links">
-        <a href="mailto:x@uq.edu.au">✉ x@uq.edu.au</a>
+        <a href="mailto:b.tuo@uq.edu.au">✉ b.tuo@uq.edu.au</a>
       </div>
     </div>
   </div>
