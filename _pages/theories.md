@@ -4,7 +4,7 @@ title: Theories & Measures
 permalink: /theories/
 description: A curated repository of theories, frameworks, and measurement scales used and recommended by the ASCI Lab.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 A living resource maintained by the ASCI Lab. We draw on theories and 

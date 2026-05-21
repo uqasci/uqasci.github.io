@@ -4,7 +4,7 @@ title: "Reading Group: Paper Title"
 date: 2025-05-01
 description: A summary of our fortnightly reading group discussions.
 tags: [reading-group, oversight, cogsci]
-categories: reading-group
+categories: blog
 ---
 
 This fortnight our reading group discussed ......

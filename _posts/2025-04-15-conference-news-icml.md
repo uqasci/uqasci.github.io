@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Lab at ICML 2025: Two Papers Accepted"
+title: "News: Title!"
 date: 2025-04-15
-description: We are excited to share that two lab members will be presenting at ICML 2025 in Vienna.
-tags: [news, conference, icml]
+description: We are excited to share...
+tags: [news, conference]
 categories: news
 ---
 
@@ -12,10 +12,9 @@ accepted at the .....
 
 ## Accepted Papers
 
-**Jane Doe** will be presenting her work on ....
+**Jane Doe** will be presenting their work on ....
 
-**Alice Smith** will be presenting their paper on ....
 
 ## Come Say Hello
 
-If you are attending ICML 2025, we would love to connect!
+If you are attending ABC 2027, we would love to connect!
