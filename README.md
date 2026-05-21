@@ -85,7 +85,7 @@ preview   = {pareek2024.jpg},    % Thumbnail image filename (see Step 4)
 4. Click **Add file → Upload files** and upload your image
 
 
-### Step 3: Add to the .bib file
+### Step 4: Add to the .bib file
 
 1. Open [papers.bib](https://github.com/uqasci/uqasci.github.io/blob/main/_bibliography/papers.bib) on GitHub
 2. Click the pencil icon to edit
@@ -157,7 +157,7 @@ Example:
 2025-05-20-reading-group-trust-calibration.md
 ```
 
-### Step 2: Copy this template and fill it in
+### Step 2: Copy this template and fill it in. Add it to the new file you have just created. 
 
 ```markdown
 ---
@@ -208,7 +208,7 @@ Example:
 2027-05-20-visiting-chi2027.md
 ```
 
-### Step 2: Copy this template
+### Step 2: Copy this template and fill it in. Add it to the new file you have just created.
 
 The only difference from a blog post is `categories: news`:
 
