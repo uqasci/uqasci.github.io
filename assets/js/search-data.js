@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/theories/";
           },
-        },{id: "post-reading-group-paper-title",
+        },{id: "post-evidence-based-scientific-thinking-and-decision-making-in-everyday-life-dawson-et-al-2024",
+        
+          title: "Evidence-based scientific thinking and decision-making in everyday life | Dawson et al |...",
+        
+        description: "Quick summary of interesting paper on factors driving human perception of information (and DM-ing), useful from methos pov.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Dawson_everday_decision_making_readinggroup/";
+          
+        },
+      },{id: "post-reading-group-paper-title",
         
           title: "Reading Group: Paper Title",
         
