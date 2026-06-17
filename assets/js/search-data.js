@@ -41,7 +41,7 @@ ninja.data = [{
         
           title: "Evidence-based scientific thinking and decision-making in everyday life | Dawson et al |...",
         
-        description: "Quick summary of interesting paper on factors driving human perception of information (and DM-ing), useful from methos pov.",
+        description: "",
         section: "Posts",
         handler: () => {
           
