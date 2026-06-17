@@ -164,7 +164,7 @@ Example:
 layout: post
 title: "Your Post Title Here"
 date: 2025-05-20
-description: A one sentence summary shown on the blog listing page.
+description: A one sentence summary shown on the blog listing page. OPTIONAL!
 tags: [reading-group, theme1, theme2]
 categories: blog
 ---
@@ -217,7 +217,7 @@ The only difference from a blog post is `categories: news`:
 layout: post
 title: "Title here"
 date: 2025-06-10
-description: ABC will present their work at...
+description: ABC will present their work at... OPTIONAL!
 tags: [news, conference, tag2]
 categories: news
 ---
