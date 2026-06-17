@@ -2,7 +2,7 @@
 layout: post
 title: "Evidence-based scientific thinking and decision-making in everyday life | Dawson et al | 2024"
 date: 2025-05-20
-description: Quick summary of interesting paper on factors driving human perception of information (and DM-ing), useful from methos pov.
+description:
 tags: [reading-group, human decision-making, measures, openscience]
 categories: blog
 ---
