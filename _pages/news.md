@@ -17,7 +17,7 @@ nav_order: 3
     {% for post in postlist %}
     <li>
       <h3><a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-      <p>{{ post.description }}</p>
+      <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncatewords: 30 }}...{% endif %}</p>
       <p class="post-meta">{{ post.date | date: '%B %d, %Y' }}</p>
     </li>
     {% endfor %}
