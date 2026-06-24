@@ -112,6 +112,7 @@ We are part of the [School of Electrical Engineering and Computer Science](https
     <div class="person-info">
       <h4>Saumya Pareek</h4>
       <p class="person-role">Postdoctoral Researcher</p>
+      <p class="person-identity">"I study how people make decisions with AI, and how to design systems that support rather than distort that process."</p>
       <p class="person-bio">Saumya is a researcher at the ASCI Lab. Before this, she completed her PhD at the University of Melbourne, where she examined factors impacting users' trust and reliance on AI during decision-making — with a particular interest in how AI systems can be designed to support appropriate reliance. Her research now extends this foundation towards the broader challenge of human oversight of AI, with a focus on supporting users' sensemaking and control over AI systems. Broadly, she is interested in the socio-cognitive processes that decision-making, and in designing interaction techniques that support humans in correctly evaluating and relying on AI outputs. Her work combines empirical behavioural studies and mixed methods approaches.</p>
       <div class="person-links">
         <a href="mailto:s.pareek@uq.edu.au">✉ s.pareek@uq.edu.au</a>
