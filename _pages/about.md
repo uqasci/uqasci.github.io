@@ -46,7 +46,8 @@ We are part of the [School of Electrical Engineering and Computer Science](https
     <div class="person-info">
       <h4>Tim Miller</h4>
       <p class="person-role">TIET-UQ Chair of Data Science & Professor of Artificial Intelligence</p>
-      <p class="person-bio">Tim's mission is to improve the capabilities of expert decision makers by using artificial intelligence to do the hard things. His research draws on machine learning, interaction design, and cognitive science to help people make better decisions. His experience has taught him that building machine learning models that are "more accurate" does not necessarily translate to better outcomes for users — other human factors are critical: does user performance improve? Do they trust it? Can they understand it? Does it erode their skills? When we start asking these questions, the systems we build look very different from those built when model accuracy is the primary metric.</p>
+      <p class="person-identity">"My mission is to improve the capabilities of expert decision makers by using artificial intelligence to do the hard things."</p>
+      <p class="person-bio">Tim's research draws on machine learning, interaction design, and cognitive science to help people make better decisions. His experience has taught him that building machine learning models that are "more accurate" does not necessarily translate to better outcomes for users — other human factors are critical: does user performance improve? Do they trust it? Can they understand it? Does it erode their skills? When we start asking these questions, the systems we build look very different from those built when model accuracy is the primary metric.</p>
       <div class="person-links">
         <a href="https://scholar.google.com/citations?hl=en&user=7koVt4EAAAAJ" target="_blank"><i class="ai ai-google-scholar"></i> Scholar</a>
       </div>
