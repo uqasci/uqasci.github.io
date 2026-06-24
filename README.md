@@ -13,11 +13,13 @@ For simplicity, all changes are made through GitHub itself. Please be careful wh
 
 - [Login & Setup](#login--setup)
 - [General Editing Steps](#general-editing-steps)
+- [Editing Your Profile](#editing-your-profile)
 - [Adding a Publication](#adding-a-publication)
 - [Adding a Theory or Measure](#adding-a-theory-or-measure)
 - [Adding a Blog Post](#adding-a-blog-post)
 - [Adding a News Post](#adding-a-news-post)
 - [Tips & Rules](#tips--rules)
+
 
 ---
 
@@ -41,6 +43,33 @@ For **any** edit, the process is the same:
 6. Click **Commit changes** again
 
 The site will automatically rebuild and go live within ~2 minutes.
+
+---
+
+## Editing Your Profile
+
+Your profile info is stored in "_pages/about.md".
+Direct link: [https://github.com/uqasci/uqasci.github.io/blob/main/_pages/about.md](https://github.com/uqasci/uqasci.github.io/blob/main/_pages/about.md)
+
+1. Open the file and click the **pencil icon** to edit
+2. Use **Ctrl+F** (or Cmd+F) to search for your name
+3. You will see your card — it looks like this:
+
+```html
+   <h4>Your Name</h4>
+   <p class="person-role">Your Role</p>
+   <p class="person-identity">"Your identity statement here."</p>
+   <p class="person-bio">Your longer bio here.</p>
+```
+
+4. Edit the relevant line:
+   - **`person-identity`** — a 1-sentence statement of what you do in the lab. Keep it punchy! Will be displayed in purple on the site.
+   - **`person-bio`** — your longer bio paragraph
+   - **`person-role`** — your title/role
+
+5. Scroll down, click **Commit changes**, write a short note like "Update my bio", click **Commit changes** again
+
+The site rebuilds automatically within ~2 minutes.
 
 ---
 
