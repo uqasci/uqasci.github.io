@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/theories/";
           },
-        },{id: "post-evidence-based-scientific-thinking-and-decision-making-in-everyday-life-dawson-et-al-2024",
+        },{id: "post-geoguessr-a-new-scientific-frontier",
+        
+          title: "Geoguessr: A new scientific frontier",
+        
+        description: "Using Geoguessr think-aloud data to challenge our understanding of decision-making",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/the-science-of-geoguessr/";
+          
+        },
+      },{id: "post-evidence-based-scientific-thinking-and-decision-making-in-everyday-life-dawson-et-al-2024",
         
           title: "Evidence-based scientific thinking and decision-making in everyday life | Dawson et al |...",
         
