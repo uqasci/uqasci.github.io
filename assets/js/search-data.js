@@ -59,6 +59,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/qwida/";
           
         },
+      },{id: "post-asca-success-at-asci",
+        
+          title: "ASCA success at ASCI!",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/SHADE_award/";
+          
+        },
       },{id: "post-evidence-based-scientific-thinking-and-decision-making-in-everyday-life-dawson-et-al-2024",
         
           title: "Evidence-based scientific thinking and decision-making in everyday life | Dawson et al |...",
