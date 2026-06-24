@@ -67,7 +67,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/SHADE_award/";
+            window.location.href = "/blog/2025/SHADE_award/";
           
         },
       },{id: "post-evidence-based-scientific-thinking-and-decision-making-in-everyday-life-dawson-et-al-2024",
