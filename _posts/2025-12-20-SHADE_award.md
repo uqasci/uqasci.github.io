@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ASCA success at ASCI!"
-date: 2026-02-10
+date: 2025-12-20
 tags: [news]
 categories: news
 ---
