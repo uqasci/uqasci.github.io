@@ -265,3 +265,15 @@ html[data-theme='dark'] {
     &:focus { border-color: #D7D2E6; }
   }
 }
+
+.person-identity {
+  color: #502378;
+  font-weight: 500;
+  font-size: 0.92rem;
+  margin: 0 0 0.5rem 0;
+  font-style: italic;
+}
+
+html[data-theme='dark'] {
+  .person-identity { color: #D7D2E6; }
+}
