@@ -48,6 +48,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/the-science-of-geoguessr/";
           
         },
+      },{id: "post-arc-centre-of-excellence-success-in-asci",
+        
+          title: "ARC Centre of Excellence success in ASCI",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/qwida/";
+          
+        },
       },{id: "post-evidence-based-scientific-thinking-and-decision-making-in-everyday-life-dawson-et-al-2024",
         
           title: "Evidence-based scientific thinking and decision-making in everyday life | Dawson et al |...",
