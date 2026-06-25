@@ -59,6 +59,7 @@ We are part of the [School of Electrical Engineering and Computer Science](https
     <div class="person-info">
       <h4>Dr Sarah Bentley</h4>
       <p class="person-role">Senior Research Fellow</p>
+      <p class="person-identity">"As a social psychologist trained in social identity theory my role is to mechanise, measure and manipulate both individual and group dynamics in order to optimise human and machine outcomes."</p>
       <p class="person-bio">Sarah is a multiple award-winning researcher in social psychology who works from a social identity perspective, trained with global leaders in Social Identity Theory at The University of Queensland. She specialises in evidence-based evaluations of socio-contextual processes, including group and team dynamics, identity-based interventions, and scaling behaviour change. At the ASCI Lab her research focuses on empirically extending a socio-cognitive understanding of human-AI interactions, and particularly the impact of AI-enhanced decision tools on psychological process. Prior to joining UQ she worked as a senior research scientist at CSIRO, specialising in bridging the gap between the principles of Responsible AI and their measurable practice.</p>
       <div class="person-links">
         <a href="mailto:s.bentley@uq.edu.au">✉ s.bentley@uq.edu.au</a>
