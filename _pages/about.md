@@ -129,6 +129,7 @@ We are part of the [School of Electrical Engineering and Computer Science](https
     <div class="person-info">
       <h4>Dice Yukita</h4>
       <p class="person-role">PhD Candidate</p>
+      <p class="person-identity">"My mission is to understand what humans should fight to cognitively engage with amidst AI delegation and translate those learnings to the design industry I come from."</p>
       <p class="person-bio">Dice's research examines how AI is impacting the way knowledge workers write in organisational workplace settings, and how to design for the scaffolding of human-AI cognitive distribution — balancing the benefits of AI automation with cognitive ownership. He is particularly interested in how to support the emerging plan/delegate/review cognitive process through a "prototyping" approach to writing, and how AI-mediated documents affect downstream knowledge propagation in workplaces.</p>
       <div class="person-links">
         <a href="mailto:d.yukita@uq.edu.au">✉ d.yukita@uq.edu.au</a>
