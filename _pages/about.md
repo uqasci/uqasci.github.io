@@ -101,6 +101,7 @@ We are part of the [School of Electrical Engineering and Computer Science](https
     <div class="person-info">
       <h4>Thitaree (Mint) Tanprasert</h4>
       <p class="person-role">Postdoctoral Researcher</p>
+      <p class="person-identity">My goal is to help shape an AI future where success is measured not only by what AI can do for people, but by who it helps people become.</p>
       <p class="person-bio">Mint's broad research area is Human-Computer Interaction (HCI), specifically the intersection of artificial intelligence, multimedia, and education. Her current project focuses on the effect of AI usage on knowledge workers' skill erosion. She has experience in user-centred design methods, quantitative and qualitative research methods, as well as a technical computer science background. In her free time, she enjoys swimming and playing the piano.</p>
       <div class="person-links">
         <a href="mailto:m.tanprasert@uq.edu.au">✉ m.tanprasert@uq.edu.au</a>
