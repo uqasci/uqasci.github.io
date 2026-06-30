@@ -74,6 +74,7 @@ We are part of the [School of Electrical Engineering and Computer Science](https
     <div class="person-info">
       <h4>Ronal Singh</h4>
       <p class="person-role">Senior Research Fellow</p>
+      <p class="person-identity">"My mission is to design AI systems that give decision-makers the situation awareness needed to reason through complex decisions and remain in control across both AI deferral and oversight."</p>
       <p class="person-bio">Ronal is a researcher in human-centred AI-assisted decision-making, with a focus on how AI systems can support rather than replace human judgment in high-stakes settings. His work examines how evidence, uncertainty, and explainability should be structured to help people make better decisions while retaining control. He is particularly interested in human-AI teaming — including when systems should defer to human expertise and how assistance should be calibrated to avoid over- or under-reliance. Methodologically, he combines empirical human-subject studies with the design and evaluation of interactive AI systems.</p>
       <div class="person-links">
         <a href="mailto:ronal.singh@uq.edu.au">✉ ronal.singh@uq.edu.au</a>
