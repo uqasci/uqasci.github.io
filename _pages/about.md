@@ -89,6 +89,7 @@ We are part of the [School of Electrical Engineering and Computer Science](https
     <div class="person-info">
       <h4>Chengbo Zheng</h4>
       <p class="person-role">Postdoctoral Researcher</p>
+      <p class="person-identity">"My mission is to design AI that sustains people's capacity to think and judge for the world we share, because I believe a good society depends on those who never stop doing so."</p>
       <p class="person-bio">Chengbo is an HCI researcher focusing on human–AI collaboration for sensemaking and decision-making. He completed his PhD at the Hong Kong University of Science and Technology (HKUST). His research is highly interdisciplinary, spanning the intersections of HCI with data science, education, and AI for science. More broadly, he is interested in designing AI systems that enhance human metacognition and support more reflective and effective collaboration with AI. His current work centers on augmenting clinical workflows—particularly in dermatology—through human-centered AI systems. He loves cats and dogs.</p>
       <div class="person-links">
         <a href="mailto:chengbo.zheng@uq.edu.au">✉ chengbo.zheng@uq.edu.au</a>
