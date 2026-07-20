@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/theories/";
           },
-        },{id: "post-geoguessr-a-new-scientific-frontier",
+        },{id: "post-designing-the-oversight-hotzenplotz-what-should-ai-leave-for-us-humans-to-do",
+        
+          title: "Designing the Oversight Hotzenplotz: What Should AI Leave for Us Humans to Do?...",
+        
+        description: "A report from our latest reading group where we discussed Klapperich and Hassenzahl’s paper “Hotzenplotz – Reconciling Automation with Experience”",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/designing-the-oversight-hotzenplotz/";
+          
+        },
+      },{id: "post-geoguessr-a-new-scientific-frontier",
         
           title: "Geoguessr: A new scientific frontier",
         
