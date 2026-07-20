@@ -92,17 +92,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/Dawson_everday_decision_making_readinggroup/";
           
         },
-      },{id: "post-reading-group-paper-title",
-        
-          title: "Reading Group: Paper Title",
-        
-        description: "A summary of our fortnightly reading group discussions.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/reading-group-scalable-oversight/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
