@@ -103,17 +103,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/reading-group-scalable-oversight/";
           
         },
-      },{id: "post-news-title",
-        
-          title: "News: Title!",
-        
-        description: "We are excited to share...",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/conference-news-icml/";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
