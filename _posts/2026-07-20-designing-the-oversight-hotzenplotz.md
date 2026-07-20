@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Designing the Oversight Hotzenplotz: What Should AI Leave for Us Humans to Do?"
+title: "Designing the oversight hotzenplotz: as we become humans in the loop, what becomes of our work?"
 date: 2026-07-20
 description: A report from our latest reading group where we discussed Klapperich and Hassenzahl’s paper “Hotzenplotz – Reconciling Automation with Experience”
 tags: [reading-group, oversight, work-design]
