@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/theories/";
           },
-        },{id: "post-designing-the-oversight-hotzenplotz-what-should-ai-leave-for-us-humans-to-do",
+        },{id: "post-designing-the-oversight-hotzenplotz-as-we-become-humans-in-the-loop-what-becomes-of-our-work",
         
-          title: "Designing the Oversight Hotzenplotz: What Should AI Leave for Us Humans to Do?...",
+          title: "Designing the oversight hotzenplotz: as we become humans in the loop, what becomes...",
         
         description: "A report from our latest reading group where we discussed Klapperich and Hassenzahl’s paper “Hotzenplotz – Reconciling Automation with Experience”",
         section: "Posts",
