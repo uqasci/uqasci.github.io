@@ -145,6 +145,7 @@ We are part of the [School of Electrical Engineering and Computer Science](https
     <div class="person-info">
       <h4>Saied Salem</h4>
       <p class="person-role">PhD Candidate</p>
+      <p class="person-identity">"My mission is to understand how human reasoning aligns with how AI models make decisions, and use this understanding to design trustworthy AI decision-support systems."</p>
       <p class="person-bio">Saied's research focuses on Explainable AI, particularly concept-based explanations for computer vision models. He aims to bridge the gap between complex feature representations and human reasoning by developing faithful and trustworthy AI systems. His work explores how human-centred explanations can support expert collaboration in human-centred decision support systems.</p>
       <div class="person-links">
         <a href="mailto:s.salem@uq.edu.au">✉ s.salem@uq.edu.au</a>
