@@ -81,6 +81,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/SHADE_award/";
           
         },
+      },{id: "post-humans-and-ai-what-and-how-do-we-think",
+        
+          title: "Humans and AI, what (and how) do we think?",
+        
+        description: "Just how different is thinking with AI - are we talking calculators or chain reactions?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Human-AI_thinking-A-third_way/";
+          
+        },
       },{id: "post-evidence-based-scientific-thinking-and-decision-making-in-everyday-life-dawson-et-al-2024",
         
           title: "Evidence-based scientific thinking and decision-making in everyday life | Dawson et al |...",
