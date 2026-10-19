@@ -159,7 +159,8 @@ We are part of the [School of Electrical Engineering and Computer Science](https
     <div class="person-info">
       <h4>Bing Tuo</h4>
       <p class="person-role">PhD Candidate</p>
-      <p class="person-bio">Great passion for human-centered AI — exploring how to build AI system that not only helps people make better decisions, but are also system people can trust and rely on. As a father of two boys, I am also deeply interested in how children can learn to use AI responsibly, critically, and creatively.</p>
+      <p class="person-identity">"Always learning, always practicing, always improving."</p>
+      <p class="person-bio">Great passion for human-centered AI — exploring how to build AI system that not only helps people make better decisions, but are also system people can trust and rely on.</p>
       <div class="person-links">
         <a href="mailto:b.tuo@uq.edu.au">✉ b.tuo@uq.edu.au</a>
       </div>
