@@ -9,7 +9,7 @@ categories: blog
 
 > *Ultimately, the partnership between humans and AI could end up being more dangerous than AI acting on its own. The idea of keeping a “human in the loop” for high-stakes decisions involving AI may seem comforting, but it assumes that the human in question is actually capable of providing meaningful oversight. The question, therefore, should not only be: “Is there a human in the loop?” but also: **“Is that human cognitively equipped to provide meaningful oversight?”** This question stayed with me throughout HCOMP 2026 and increasingly shaped how I thought about AI safety, human–AI collaboration, and my own research.*
 
-![Sunrise view of the US Capitol framed by trees](assets/img/Bing_1_11.png) ![The Vietnam Veterans Memorial wall on the National Mall](assets/img/Bing_1_12.png)
+![Sunrise view of the US Capitol framed by trees](../assets/img/Bing_1_11.png) ![The Vietnam Veterans Memorial wall on the National Mall](../assets/img/Bing_1_12.png)
 
 The ACM Conference on Human-AI Complementarity and Alignment (HCOMP) is a premier venue for sharing the latest research on human–AI complementarity and alignment. The HCOMP community studies and designs systems that bring together the complementary strengths of human and artificial intelligence to achieve outcomes that neither could accomplish alone, while ensuring that such collaboration is ethical, safe, and intentional.
 
@@ -31,8 +31,8 @@ What struck me about this case is that it represents a very different form of AI
 
 In search of answers, I joined a workshop titled [**Cognitive Security** (CogSec) for Human–AI Systems](https://www.cstf.dev/) organised by a group of Stanford researchers. CogSec frames cognitive security—the integrity of the conditions under which individuals and groups can reason for themselves—as an emerging research agenda. The workshop was anchored by a hands-on session focused on developing the Cognitive Vulnerability and Mitigation Catalog (CVMC). The CVMC provides a structured schema that connects AI affordances with associated cognitive vulnerabilities and pairs them with candidate mitigations, evaluation metrics, burden-and-equity considerations, and governance mechanisms. Through this framework, the workshop sought not only to identify how AI might shape or compromise human reasoning, but also to develop systematic approaches for preserving human agency and strengthening decision resilience in increasingly capable human–AI systems.
 
-![A speaker at the Cognitive Security for Human–AI Systems workshop](assets/img/Bing_1_8.png)![HCOMP 2026 workshops sign outside the session room](assets/img/Bing_1_16.png)
-![Group photo of the CogSec workshop participants](assets/img/Bing_1_17.png)
+![A speaker at the Cognitive Security for Human–AI Systems workshop](../assets/img/Bing_1_8.png)![HCOMP 2026 workshops sign outside the session room](../assets/img/Bing_1_16.png)
+![Group photo of the CogSec workshop participants](../assets/img/Bing_1_17.png)
 
 My first impression of the workshop was the remarkable diversity of the participants’ backgrounds. The room brought together frontline lawyers and doctors, educators, government officials, intelligence professionals, social scientists, psychologists, military personnel, representatives from philanthropic organisations, and even an engineer involved in designing an AI-assisted warfare decision-making system for Australia’s future nuclear-powered submarine programme. This diversity gave me a rare opportunity to examine my own research from perspectives far beyond my usual disciplinary context. It was also deeply encouraging: across these very different domains, I could genuinely feel the importance and practical relevance of the questions my work is trying to address.
 
@@ -50,15 +50,15 @@ Research on [human–human collective intelligence](https://www.science.org/doi/
 
 Luckily, for many specialised tasks, of course, such endpoint has not yet been reached. Training data may remain scarce or imperfect, and AI may still lack the contextual knowledge required to dominate the task. More importantly, in high-stakes domains, humans may need to remain involved for reasons that extend beyond predictive performance—including accountability, legitimacy, ethical judgement, contestability, and the preservation of human agency.
 
-![Diagram: Human > AI, Human ≈ AI, Human < AI — the Human ≈ AI zone is 'where our battlefield is'; human–AI collaboration should aim not only for task complementarity but also for the resilience of human agency](assets/img/Bing_1_1.png)
+![Diagram: Human > AI, Human ≈ AI, Human < AI — the Human ≈ AI zone is 'where our battlefield is'; human–AI collaboration should aim not only for task complementarity but also for the resilience of human agency](../assets/img/Bing_1_1.png)
 
 These should be our main battlefields of our research.
 
 The question, then, is **not simply whether a human–AI team outperforms humans or AI alone, but whether the collaboration preserves humans’ capacity to reason independently, recognise AI errors, intervene effectively, and remain meaningfully responsible for decisions.** Accuracy, therefore, cannot be the sole optimisation target. A system may improve task performance while eroding human judgement—the ability to question recommendations, detect failures, and make independent decisions. From a cognitive-security perspective, preserving these capabilities matters even when overall performance improves.
 
-![Presenting 'Easy to Read, Easy to Trust' in the main session](assets/img/Bing_1_18.png)![HCOMP 2026 Best Paper Honorable Mention certificate](assets/img/Bing_1_7.png)![The HCOMP 2026 poster session](assets/img/Bing_1_10.png)
+![Presenting 'Easy to Read, Easy to Trust' in the main session](../assets/img/Bing_1_18.png)![HCOMP 2026 Best Paper Honorable Mention certificate](../assets/img/Bing_1_7.png)![The HCOMP 2026 poster session](../assets/img/Bing_1_10.png)
 
-![The main session hall](assets/img/Bing_1_2.png)![Attendees mingling at the conference reception](assets/img/Bing_1_6.png)
+![The main session hall](../assets/img/Bing_1_2.png)![Attendees mingling at the conference reception](../assets/img/Bing_1_6.png)
 
 In the main session, I presented our latest work on how the processing fluency of AI explanations can increase human trust and reliance on AI, and explained the underlying cognitive mechanism through the lens of the meta-reasoning framework. When we reason, we are constantly making a second-order decision: **should I keep thinking, or is what I have seen good enough?** This decision is not determined solely by actual accuracy. Instead, we rely on heuristic cues such as *processing fluency*—how easy information feels to understand. Fluent information can generate a “feeling of rightness” (FOR), which signals to our slower, analytical reasoning system that further scrutiny may not be necessary. The problem is that fluency is a fallible cue: something can *feel* right because of how it is presented, rather than because it is actually correct.
 
@@ -74,9 +74,9 @@ To sum up, in the context of rapid advances in AI, a human-centred principle is 
 
 Four days at the conference left me with many great memories. Here are a few I’d like to share, especially with those who are new to academic conferences.
 
-![Old Town Alexandria street](assets/img/Bing_1_5.png)![Evening view down a street towards the US Capitol](assets/img/Bing_1_19.png)
+![Old Town Alexandria street](../assets/img/Bing_1_5.png)![Evening view down a street towards the US Capitol](../assets/img/Bing_1_19.png)
 
-![A Washington, DC Metro station](assets/img/Bing_1_14.png)![The Lincoln Memorial statue and columns](assets/img/Bing_1_15.png)
+![A Washington, DC Metro station](../assets/img/Bing_1_14.png)![The Lincoln Memorial statue and columns](../assets/img/Bing_1_15.png)
 
 **Talking to people.** My favourite part of the conference was actually the poster session—not only because we had a great session host, but because it gave us the opportunity to interact with people and exchange ideas in real time. The journey of doing research can often feel lonely, and the positive feedback loop is usually very long. Having friends who share similar interests and can relate to what you are going through makes the journey much more enjoyable. Talking with them not only encouraged me, but also sparked many new ideas. I was a little shy at the beginning, but after starting a few conversations, I quickly realised how awesome and supportive everyone was. I truly believe that some of the people I met there will become lifelong friends.
 
@@ -84,4 +84,4 @@ Four days at the conference left me with many great memories. Here are a few I�
 
 On a lighter note, I was almost hit by an acorn thrown down by a squirrel. I wanted to keep it as a souvenir—too bad I couldn’t bring it back to Australia!
 
-![View of the Washington Monument between the Lincoln Memorial columns](assets/img/Bing_1_3.png)![The guard at the Tomb of the Unknown Soldier, Arlington](assets/img/Bing_1_13.png)![Acorns on a ledge overlooking Arlington National Cemetery](assets/img/Bing_1_9.png)![Arlington House on the hill above Arlington National Cemetery](assets/img/Bing_1_4.png)
+![View of the Washington Monument between the Lincoln Memorial columns](../assets/img/Bing_1_3.png)![The guard at the Tomb of the Unknown Soldier, Arlington](../assets/img/Bing_1_13.png)![Acorns on a ledge overlooking Arlington National Cemetery](../assets/img/Bing_1_9.png)![Arlington House on the hill above Arlington National Cemetery](../assets/img/Bing_1_4.png)
