@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/theories/";
           },
-        },{id: "post-designing-the-oversight-hotzenplotz-as-we-become-humans-in-the-loop-what-becomes-of-our-work",
+        },{id: "post-human-oversight-is-not-enough-reflections-from-hcomp-2026-on-the-risks-of-ai-assisted-decision-making",
+        
+          title: "Human Oversight Is Not Enough: Reflections from HCOMP 2026 on the Risks of...",
+        
+        description: "Asking “Is there a human in the loop?” is not enough — we also need to ask whether that human is cognitively equipped to provide meaningful oversight.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/hcomp26-reflection-update/";
+          
+        },
+      },{id: "post-designing-the-oversight-hotzenplotz-as-we-become-humans-in-the-loop-what-becomes-of-our-work",
         
           title: "Designing the oversight hotzenplotz: as we become humans in the loop, what becomes...",
         
