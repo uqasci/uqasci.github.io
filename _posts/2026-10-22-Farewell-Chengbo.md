@@ -13,10 +13,12 @@ While we'll certainly miss having him around the lab, we're excited for this nex
 
 Thank you for being such a wonderful part of the team, Chengbo. Wishing you all the best in Freiburg, and we look forward to hearing about all the exciting work ahead.
 
-<p align="center">
+<figure style="text-align: center;">
   <img src="/assets/img/Chengbo_dinner.jpeg"
        alt="ASCI Lab Farewell Dinner"
        width="700">
-</p>
 
-📸 Farewell dinner with ASCI lab members and some visiting researchers.  
+  <figcaption style="font-size: 0.9em; color: #777; margin-top: 8px;">
+    📸 Farewell dinner with ASCI lab members and some visiting researchers.
+  </figcaption>
+</figure>
