@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/theories/";
           },
-        },{id: "post-human-oversight-is-not-enough-reflections-from-hcomp-2026-on-the-risks-of-ai-assisted-decision-making",
+        },{id: "post-farewell-and-best-wishes-to-asci-lab-member-chengbo-zheng",
+        
+          title: "Farewell and Best Wishes to ASCI lab member Chengbo Zheng",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Farewell-Chengbo/";
+          
+        },
+      },{id: "post-human-oversight-is-not-enough-reflections-from-hcomp-2026-on-the-risks-of-ai-assisted-decision-making",
         
           title: "Human Oversight Is Not Enough: Reflections from HCOMP 2026 on the Risks of...",
         
@@ -68,17 +79,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/the-science-of-geoguessr/";
-          
-        },
-      },{id: "post-farewell-and-best-wishes-to-asci-lab-member-chengbo-zheng",
-        
-          title: "Farewell and Best Wishes to ASCI lab member Chengbo Zheng",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/Farewell-Chengbo/";
           
         },
       },{id: "post-arc-centre-of-excellence-success-in-asci",
