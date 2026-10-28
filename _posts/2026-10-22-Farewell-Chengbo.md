@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Farewell and Best Wishes to ASCI lab member Chengbo Zheng"
-date: 2026-06-22
+date: 2026-10-22
 description: 
 tags: [news, farewell]
 categories: news
@@ -11,7 +11,7 @@ categories: news
 The ASCI lab recently got together for a farewell dinner to celebrate Chengbo, who is now heading to the Max Planck Institute in Freiburg, Germany, to continue his research journey.
 While we'll certainly miss having him around the lab, we're excited for this next chapter in his research career!
 
-Thank you for being such a wonderful part of the team, Chengbo! Wishing you all the best in Freiburg, and we look forward to hearing about all the exciting work ahead.
+Thank you for being such a wonderful part of the team, Chengbo. Wishing you all the best in Freiburg, and we look forward to hearing about all the exciting work ahead.
 
 <p align="center">
   <img src="/assets/img/Chengbo_dinner.jpeg"
