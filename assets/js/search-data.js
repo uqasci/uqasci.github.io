@@ -70,6 +70,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/the-science-of-geoguessr/";
           
         },
+      },{id: "post-farewell-and-best-wishes-to-asci-lab-member-chengbo-zheng",
+        
+          title: "Farewell and Best Wishes to ASCI lab member Chengbo Zheng",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Farewell-Chengbo/";
+          
+        },
       },{id: "post-arc-centre-of-excellence-success-in-asci",
         
           title: "ARC Centre of Excellence success in ASCI",
