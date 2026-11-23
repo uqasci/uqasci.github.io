@@ -14,30 +14,27 @@ It was a wonderful opportunity to enjoy the outdoors and spend some time togethe
 
 A lovely way to round off the year, and here's to more lab adventures in 2027!
 
-<figure style="text-align: center;">
-  <img src="/assets/img/2026_lab_trip_1.HEIC"
-       alt="ASCI Lab end-of-year trip"
-       width="700">
 
-  <figcaption style="font-size: 0.9em; color: #777; margin-top: 8px;">
-    📸 ASCI lab end-of-year outing to Springbrook and Broadbeach.
-  </figcaption>
+<figure style="text-align: center; margin: 20px auto;">
+<table style="width: 100%; table-layout: fixed; border: none; border-collapse: separate; border-spacing: 8px;">
+<tr>
+<td style="width: 50%; padding: 0; border: none;">
+<img src="/assets/img/2026_lab_trip_1.jpg" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 5px;">
+</td>
+<td style="padding: 0; border: none;">
+<img src="/assets/img/2026_lab_trip_4.jpg" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 5px;">
+</td>
+</tr>
+<tr>
+<td style="padding: 0; border: none;">
+<img src="/assets/img/2026_lab_trip_3.jpg" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 5px;">
+</td>
+<td style="width: 50%; padding: 0; border: none;">
+<img src="/assets/img/2026_lab_trip_2.jpg" style="width: 100%; aspect-ratio: 4/3; object-fit: cover; border-radius: 5px;">
+</td>
+</tr>
+</table>
+<figcaption style="font-size: 0.9em; color: #777; margin-top: 8px;">
+📸 ASCI lab end-of-year outing to Springbrook and Broadbeach.
+</figcaption>
 </figure>
-
-<figure style="text-align: center;">
-  <img src="/assets/img/2026_lab_trip_2.HEIC"
-       alt="ASCI Lab end-of-year trip"
-       width="700">
-</figure>
-
-<figure style="text-align: center;">
-  <img src="/assets/img/2026_lab_trip_3.jpeg"
-       alt="ASCI Lab end-of-year trip"
-       width="700">
-</figure>
-
-<figure style="text-align: center;">
-  <img src="/assets/img/2026_lab_trip_4.jpeg"
-       alt="ASCI Lab end-of-year trip"
-       width="700">
-</figure></escape>
