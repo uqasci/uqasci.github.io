@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/theories/";
           },
-        },{id: "post-farewell-and-best-wishes-to-asci-lab-member-chengbo-zheng",
+        },{id: "post-lab-hiking-and-beach-trip-to-springbrook-national-park",
+        
+          title: "Lab hiking and beach trip to Springbrook National Park",
+        
+        description: "We went hiking in Springbrook National Park!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/lab-hiking-trip/";
+          
+        },
+      },{id: "post-farewell-and-best-wishes-to-asci-lab-member-chengbo-zheng",
         
           title: "Farewell and Best Wishes to ASCI lab member Chengbo Zheng",
         
