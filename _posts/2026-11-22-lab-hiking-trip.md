@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Lab hiking and beach trip to Springbrook National Park"
+date: 2026-11-22
+description: We went hiking in Springbrook National Park!
+tags: [lab_activities]
+categories: blog
+---
+
+To wrap up the year, the ASCI lab headed out for a day trip to Springbrook National Park and Broadbeach on the Gold Coast, joined by two visiting researchers!
+
+We started the day with a scenic hike to the [Twin Falls waterfall](https://www.queensland.com/au/en/plan-your-holiday/journeys/p-56b2624b7b935fbe730e20f1-twin-falls-circuit-springbrook-national-park) in Springbrook National Park, followed by coffee and lunch together, and a relaxing walk along Broadbeach.
+It was a wonderful opportunity to enjoy the outdoors and spend some time together outside the lab. The weather cooperated too. 
+
+A lovely way to round off the year, and here's to more lab adventures in 2027!
+
+<figure style="text-align: center;">
+  <img src="/assets/img/2026_lab_trip_1.HEIC"
+       alt="ASCI Lab end-of-year trip"
+       width="700">
+
+  <figcaption style="font-size: 0.9em; color: #777; margin-top: 8px;">
+    📸 ASCI lab end-of-year outing to Springbrook and Broadbeach.
+  </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+  <img src="/assets/img/2026_lab_trip_2.HEIC"
+       alt="ASCI Lab end-of-year trip"
+       width="700">
+</figure>
+
+<figure style="text-align: center;">
+  <img src="/assets/img/2026_lab_trip_3.jpeg"
+       alt="ASCI Lab end-of-year trip"
+       width="700">
+</figure>
+
+<figure style="text-align: center;">
+  <img src="/assets/img/2026_lab_trip_4.jpeg"
+       alt="ASCI Lab end-of-year trip"
+       width="700">
+</figure></escape>
